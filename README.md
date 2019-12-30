@@ -1,0 +1,1 @@
+[Rust 커맨드 라인 프로그램 만들기 연습](https://rinthel.github.io/rust-lang-book-ko/ch12-00-an-io-project.html)
